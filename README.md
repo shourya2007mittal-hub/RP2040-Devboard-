@@ -21,7 +21,8 @@ SO I made a custom Rp2040 Dev-board for myself . I tried to make a devboard in w
 **Total Estimated Cost:** **$79.29**
 
 ### Schematic
-<img width="1161" height="712" alt="Screenshot 2026-07-24 014115" src="https://github.com/user-attachments/assets/4fdce158-52e5-47f4-97bc-f63324552b6f" />
+<img width="1182" height="760" alt="Screenshot 2026-07-23 233358" src="https://github.com/user-attachments/assets/189656fe-50db-46db-a68b-205514bbc059" />
+
 
 
 ### PCB Design
