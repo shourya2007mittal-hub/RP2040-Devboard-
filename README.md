@@ -11,6 +11,7 @@ SO I made a custom Rp2040 Dev-board for myself . I tried to make a devboard in w
 - Has W25Q16JVUXIQTR as Flash Memory
 - Uses 2 set of 18 connector pins 
 
+## Cost Summary (BOM)
 
 | Item | Quantity | Price (USD) | Source |
 |------|------------|------------|---------|
