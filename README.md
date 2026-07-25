@@ -33,5 +33,5 @@ SO I made a custom Rp2040 Dev-board for myself . I tried to make a devboard in w
 
 <img width="658" height="797" alt="Screenshot 2026-07-24 224907" src="https://github.com/user-attachments/assets/9b4f4c4e-ad63-46a9-8fe2-e824165931d5" />
 
-<img width="611" height="437" alt="Screenshot 2026-07-25 194132" src="https://github.com/user-attachments/assets/87baecb7-0528-46e4-aafa-deee56a18e4b" />
+
 
