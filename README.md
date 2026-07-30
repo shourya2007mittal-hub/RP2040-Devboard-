@@ -1,15 +1,17 @@
 # RP2040-Devboard-
 
-<img width="658" height="797" alt="Screenshot 2026-07-24 224907" src="https://github.com/user-attachments/assets/1620dbae-1be1-48eb-bcfc-bcf77fb77ab0" />
+<img width="515" height="655" alt="Screenshot 2026-07-30 212900" src="https://github.com/user-attachments/assets/abbd539c-2bce-47fa-b75c-a88a26241fb8" />
 
-SO I made a custom Rp2040 Dev-board for myself . I tried to make a devboard in which I have the access to almost all the gpio/analog pins avilable on the Rp2040 . It also holds an USB-C Type interference for communication  and 3.3V Voltage regulator and Crystal ossilator , Flash Memory  , boot pin and more .
+
+SO I made a custom Rp2040 Dev-board for myself . I tried to make a dev board in which I have the access to almost all the gpio/analog pins available on the Rp2040 . It also holds an USB-C Type interference for communication and 3.3V Voltage regulator and Crystal oscillator , Flash Memory , boot pin and LEDS and battery connector and more.
 
 ## Features
 
 - Based on RP-2040 Chip
 - Has MCP1700x-330xxTT as Voltage Regualtor 
 - Has W25Q16JVUXIQTR as Flash Memory
-- Uses 2 set of 18 connector pins 
+- Uses 2 set of 18 connector pins
+- Has on-Board LEDS and battery connector 
 
 ## Cost Summary (BOM)
 
@@ -18,20 +20,22 @@ SO I made a custom Rp2040 Dev-board for myself . I tried to make a devboard in w
 | PCB + PCBA + Shipping  | 1 | $79.29 | JLCPCB |
 
 
-**Total Estimated Cost:** **$79.29**
+**Total Estimated Cost:** **$83.94**
 
 ### Schematic
-<img width="1182" height="760" alt="Screenshot 2026-07-23 233358" src="https://github.com/user-attachments/assets/189656fe-50db-46db-a68b-205514bbc059" />
+<img width="1327" height="862" alt="Screenshot 2026-07-30 213203" src="https://github.com/user-attachments/assets/b215dcfa-4507-452e-9234-21464d0bd8cb" />
+
 
 
 
 ### PCB Design
-<img width="426" height="662" alt="Screenshot 2026-07-24 223045" src="https://github.com/user-attachments/assets/93914d03-2eb7-4bce-88ae-cf283cc54cda" />
-<img width="483" height="710" alt="Screenshot 2026-07-24 223037" src="https://github.com/user-attachments/assets/8d3f3e80-b2c3-49f1-8947-97ccca47cc58" />
+<img width="421" height="671" alt="Screenshot 2026-07-30 212824" src="https://github.com/user-attachments/assets/3b3db9b4-0446-4ea6-9abc-8953dbf72476" />
+<img width="436" height="671" alt="Screenshot 2026-07-30 212831" src="https://github.com/user-attachments/assets/bfbb17a5-20a7-4a48-ab5e-30d5166c795c" />
+
 
 ### 3D Design
 
-<img width="658" height="797" alt="Screenshot 2026-07-24 224907" src="https://github.com/user-attachments/assets/9b4f4c4e-ad63-46a9-8fe2-e824165931d5" />
+<img width="515" height="655" alt="Screenshot 2026-07-30 212900" src="https://github.com/user-attachments/assets/38b3bd5a-04a1-4b00-a859-9c4ea41494ec" />
 
 
 
