@@ -17,7 +17,7 @@ SO I made a custom Rp2040 Dev-board for myself . I tried to make a dev board in 
 
 | Item | Quantity | Price (USD) | Source |
 |------|------------|------------|---------|
-| PCB + PCBA + Shipping  | 1 | $79.29 | JLCPCB |
+| PCB + PCBA + Shipping  | 1 | $83.94 | JLCPCB |
 
 
 **Total Estimated Cost:** **$83.94**
